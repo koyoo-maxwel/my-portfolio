@@ -54,7 +54,7 @@ header {
 
 .max {
   background-color: #a5a6c783;
-  padding-bottom: 500px;
+  padding-bottom: 600px;
 }
 
 .navbar {
@@ -165,10 +165,7 @@ cite {
   margin-bottom: 60px;
 }
 
-.thumbnail {
-  
- 
-}
+.thumbnail {}
 
 .thumbnail img {
   width: 100%;
